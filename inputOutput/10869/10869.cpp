@@ -14,5 +14,5 @@ int main()
 	cout << a / b <<endl;
 	cout << a % b <<endl;
 }
-
+    
 // https://www.acmicpc.net/problem/10869
