@@ -1,0 +1,12 @@
+﻿#include<iostream>
+
+using namespace std;
+
+int main()
+{
+	int a, b;
+	cin >> a >> b;
+	cout << a + b << endl;
+}
+
+// https://www.acmicpc.net/problem/1000
