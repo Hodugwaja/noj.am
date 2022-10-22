@@ -1,7 +1,7 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main()
 {
-	cout << "°­ÇÑÄ£±¸ ´ëÇÑÀ°±º" << endl << "°­ÇÑÄ£±¸ ´ëÇÑÀ°±º" << endl;
+	cout << "ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°" << endl << "ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°" << endl;
 }
